@@ -1,0 +1,8 @@
+print(bool(None))
+print(bool(False))
+print(bool(0))
+print(bool(false))
+print(True+True)
+print(False+False)
+print(True+False)
+print(False+True)
